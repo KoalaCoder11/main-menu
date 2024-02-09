@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQAA4AAAAAAAAAAAAAAABA5AAAAAAAAFRVDgAAAABAVUX+DwAAAEBVRFX0/w8AQFVU9WVUBQAAXlVVZVUPAADgVUVvVQ8AAF5VVWVVBQBAVVT1ZUUPAEBVRFVGVQ8AQFVF/k9UBQAAVFUO8PQPAABA5ABf9QAAAAAA8FUPAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "woof"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
